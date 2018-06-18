@@ -1,4 +1,4 @@
-package com.paulo.sbc.repository;
+package com.paulo.sbc.repositories;
 
 import java.util.List;
 

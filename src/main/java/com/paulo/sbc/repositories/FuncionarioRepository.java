@@ -1,4 +1,4 @@
-package com.paulo.sbc.repository;
+package com.paulo.sbc.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.transaction.annotation.Transactional;

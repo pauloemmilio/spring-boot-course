@@ -21,9 +21,9 @@ import com.paulo.sbc.entities.Funcionario;
 import com.paulo.sbc.entities.Lancamento;
 import com.paulo.sbc.enums.PerfilEnum;
 import com.paulo.sbc.enums.TipoEnum;
-import com.paulo.sbc.repository.EmpresaRepository;
-import com.paulo.sbc.repository.FuncionarioRepository;
-import com.paulo.sbc.repository.LancamentoRepository;
+import com.paulo.sbc.repositories.EmpresaRepository;
+import com.paulo.sbc.repositories.FuncionarioRepository;
+import com.paulo.sbc.repositories.LancamentoRepository;
 import com.paulo.sbc.utils.PasswordUtils;
 
 @RunWith(SpringRunner.class)

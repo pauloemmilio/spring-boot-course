@@ -12,7 +12,7 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.paulo.sbc.entities.Empresa;
-import com.paulo.sbc.repository.EmpresaRepository;
+import com.paulo.sbc.repositories.EmpresaRepository;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

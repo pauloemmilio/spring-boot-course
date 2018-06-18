@@ -15,8 +15,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.paulo.sbc.entities.Empresa;
 import com.paulo.sbc.entities.Funcionario;
 import com.paulo.sbc.enums.PerfilEnum;
-import com.paulo.sbc.repository.EmpresaRepository;
-import com.paulo.sbc.repository.FuncionarioRepository;
+import com.paulo.sbc.repositories.EmpresaRepository;
+import com.paulo.sbc.repositories.FuncionarioRepository;
 import com.paulo.sbc.utils.PasswordUtils;
 
 @RunWith(SpringRunner.class)
